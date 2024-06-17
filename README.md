@@ -7,11 +7,11 @@ BlueBox is a text-based movie recommendation system. It aims to provide users wi
 # Features
 Welcome function: It provides a warm welcome to the user when they run the program.
 
-**Search: Users can input a search term to find related movies. If there's no direct match, the program will suggest broadening the search.
+**Search:** Users can input a search term to find related movies. If there's no direct match, the program will suggest broadening the search.
 
-**Broadening search: If the exact search term doesn't yield any results, the user can broaden their search to get more results.
+**Broadening search:** If the exact search term doesn't yield any results, the user can broaden their search to get more results.
 
-**Recommendation: If no match is found even after broadening the search, the system will recommend a random movie.
+**Recommendation:** If no match is found even after broadening the search, the system will recommend a random movie.
 
 # Libraries Used
 random: Used to select a random movie for a recommendation if no match is found.
